@@ -1,3 +1,5 @@
+![Tests](https://github.com/evanwaubry/Password-Manager/actions/workflows/tests.yml/badge.svg) 
+
 # MyPass — Password Manager
 
 A desktop password manager built with Python and Tkinter. Generates strong
