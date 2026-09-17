@@ -1,0 +1,6 @@
+passwords.db
+salt.bin
+check.token
+__pycache__/
+*.pyc
+.pytest_cache/
